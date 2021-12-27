@@ -1,0 +1,11 @@
+As far as the project is concerned, I have found it very interesting overall and I have learned a lot of very relevant knowledge.
+
+Specifically, I would have liked to go into more detail on how to train image detection to get better results. I was very surprised that
+the accuracy is not as high as I expected. Also, as I included more images and tried to train longer, the results generally got worse.
+
+I would also have liked to have had images and videos for the rest of the passengers in order to be able to validate properly, although
+I understand that this is complicated.
+
+Finally, as an improvement, I particularly wasted a lot of time generating the SAS for the custom form. I think it is not explained in
+sufficient detail, or at least I understood it that way, the different needs when generating each SAS. For example, for the web
+fott-2-1.azurewebsites.net the SAS must be done on the blob that contains all the PDFs.
